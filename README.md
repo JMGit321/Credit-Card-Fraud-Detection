@@ -53,7 +53,8 @@ This project implements a machine learning pipeline to detect credit card fraud,
 - Average Precision (AUPRC): **0.75**
 
 **Cross-validation Performance**:
-- Mean Accuracy: **1.00** (± 0.00)
+- Mean Accuracy: **1.00**
+- Cross-validation Accuracy Standard Deviation: **0.00**
 - Mean Balanced Accuracy: **0.85**
 - Mean F1 Score: **0.77**
 - Mean Precision: **0.88**
@@ -69,33 +70,35 @@ This project implements a machine learning pipeline to detect credit card fraud,
 - Precision: **1.00**
 - Recall: **1.00**
 - F1 Score: **1.00**
-- Average Precision (AUPRC): **0.57**
+- Average Precision (AUPRC): **0.50**
 
 **Cross-validation Performance**:
-- Mean Accuracy: **0.99** (± 0.02)
-- Mean Balanced Accuracy: **0.83**
-- Mean F1 Score: **0.57**
+- Mean Accuracy: **0.90**
+- Cross-validation Accuracy Standard Deviation: **0.29**
+- Mean Balanced Accuracy: **0.80**
+- Mean F1 Score: **0.59**
 - Mean Precision: **0.60**
-- Mean Recall: **0.66**
-- Mean Average Precision: **0.39**
+- Mean Recall: **0.70**
+- Mean Average Precision: **0.41**
 
 ---
 
 ### Random Forest
 
 - Accuracy: **1.00**
-- Balanced Accuracy: **0.88**
+- Balanced Accuracy: **0.89**
 - Precision: **1.00**
 - Recall: **1.00**
 - F1 Score: **1.00**
 - Average Precision (AUPRC): **0.74**
 
 **Cross-validation Performance**:
-- Mean Accuracy: **1.00** (± 0.00)
-- Mean Balanced Accuracy: **0.85**
-- Mean F1 Score: **0.78**
-- Mean Precision: **0.91**
-- Mean Recall: **0.71**
+- Mean Accuracy: **1.00**
+- Cross-validation Accuracy Standard Deviation: **0.00**
+- Mean Balanced Accuracy: **0.87**
+- Mean F1 Score: **0.79**
+- Mean Precision: **0.90**
+- Mean Recall: **0.73**
 - Mean Average Precision: **0.78**
 
 ---
